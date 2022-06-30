@@ -13,7 +13,13 @@ In this lab, we will present you an unsupervised learning problem without clearl
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to prepare a dataset for most scikit-learn algorithms.
+This lab is going to be slightly different from what you are used to. Do you remember your old friend SQL, well, it's time to bring him back and use it in our lab pipeline. 
+
+1-Open the .sql file in MySQL and run it into a desired schema.
+2-Open the `main.ipynb` file in the `your-code` directory.
+3-Create a connection with python to MySQL.
+4-Load the dataset into a variable.
+5-Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to prepare a dataset for most scikit-learn algorithms.
 
 ## Deliverables
 
